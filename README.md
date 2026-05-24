@@ -75,6 +75,7 @@ const yoobi = {
 
 | Repository | Description |
 |---|---|
+| [**2023KEB_Marketer_pro**](https://github.com/K-Software-BootCamp/2023KEB_Marketer_pro) | 📊 K-Software 부트캠프 최종 프로젝트 — Inflave 마케터 지원 서비스 |
 | [**DjangoServer**](https://github.com/yoobilee/DjangoServer) | 🐍 Django 기반 백엔드 서버 프로젝트 |
 
 <br/>
@@ -83,7 +84,21 @@ const yoobi = {
 
 | Repository | Description |
 |---|---|
-| [**Arduino-Nano-33-iot**](https://github.com/yoobilee/Arduino-Nano-33-iot) | ⚡ Arduino Nano 33 IoT를 활용한 캡스톤 디자인 프로젝트 |
+| [**kgu-campus-guide**](https://github.com/yoobilee/kgu-campus-guide) | 🏫 경기대 재학생을 위한 캠퍼스 통합 정보 포털 — Django 풀스택 (5인 팀, 캡스톤 심화) |
+| [**Arduino-Nano-33-iot**](https://github.com/yoobilee/Arduino-Nano-33-iot) | ⚡ Arduino Nano 33 IoT를 활용한 캡스톤 디자인 기초 프로젝트 |
+
+<br/>
+
+---
+
+## 🏆 Awards
+
+| 수상 | 주관 | 날짜 |
+|---|---|---|
+| 🥈 K-Software Empowerment Bootcamp **우수상** | 과학기술정보통신부 / 성균관대·신세계I&C | 2023.08 |
+| 📄 한국정보기술학회 **우수논문상 (동상)** | 한국정보기술학회 | 2023.06 |
+| 🥉 심화 캡스톤 디자인 **동상** | 경기대학교 | 2023.06 |
+| 🥈 기초 캡스톤 디자인 **금상** | 경기대학교 | 2022.06 |
 
 <br/>
 
