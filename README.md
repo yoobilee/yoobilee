@@ -19,8 +19,8 @@
 ## 🧠 About Me
 
 ```typescript
-const yubi = {
-  name:     "유비 (YooB)",
+const yoobi = {
+  name:     "이유비 (YooBi LEE)",
   handle:   "@yoobilee",
   role:     "AI-Augmented Frontend Developer",
   focus:    ["Web App", "Desktop App", "Interactive UI"],
@@ -76,7 +76,14 @@ const yubi = {
 | Repository | Description |
 |---|---|
 | [**DjangoServer**](https://github.com/yoobilee/DjangoServer) | 🐍 Django 기반 백엔드 서버 프로젝트 |
-| [**Arduino-Nano-33-iot**](https://github.com/yoobilee/Arduino-Nano-33-iot) | ⚡ Arduino IoT 프로젝트 |
+
+<br/>
+
+### 🎓 University &nbsp;*(캡스톤 디자인)*
+
+| Repository | Description |
+|---|---|
+| [**Arduino-Nano-33-iot**](https://github.com/yoobilee/Arduino-Nano-33-iot) | ⚡ Arduino Nano 33 IoT를 활용한 캡스톤 디자인 프로젝트 |
 
 <br/>
 
@@ -114,13 +121,22 @@ const yubi = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yoobilee&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoobilee&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<!-- WakaTime 대신 github-readme-activity-graph 사용 (안정적) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yoobilee&theme=tokyo-night&hide_border=true&area=true)](https://github.com/yoobilee)
+
+<br/>
+
+<!-- GitHub Streak (demolab - 가장 안정적) -->
+<img src="https://streak-stats.demolab.com?user=yoobilee&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yoobilee&theme=tokyonight&hide_border=true" height="170"/>
+<!-- github-profile-summary-cards - stats 대체 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoobilee&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoobilee&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoobilee&theme=tokyonight" height="160"/>
 
 </div>
 
