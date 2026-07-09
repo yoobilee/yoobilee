@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Render Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=YooBi&fontSize=90&fontAlignY=38&fontColor=ffffff&desc=AI-Augmented%20Frontend%20Developer&descSize=20&descAlignY=60&descColor=d8b4fe&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=YooBi&fontSize=90&fontAlignY=38&fontColor=ffffff&desc=AI-Augmented%20Developer&descSize=20&descAlignY=60&descColor=d8b4fe&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -22,16 +22,16 @@
 const yoobi = {
   name:     "이유비 (YooBi LEE)",
   handle:   "@yoobilee",
-  role:     "AI-Augmented Frontend Developer",
+  role:     "AI-Augmented Developer",
   focus:    ["Web App", "Desktop App", "Interactive UI"],
-  weapon:   "Claude Code + JavaScript",
+  weapon:   "AI 협업 + JavaScript",
   motto:    "복잡한 데이터를 직관적인 UI로. AI와의 협업으로 한계를 넘는다.",
 };
 ```
 
 <br/>
 
-- 🤖 **AI-First Developer** — Claude Code와 협업하여 애자일하게 프로덕트를 빌드
+- 🤖 **AI 협업 개발자** — 프로젝트 성격에 따라 Claude Code(에이전틱 협업) 또는 Claude/Gemini와의 대화 기반 협업을 활용해 프로덕트를 빌드
 - 🖥️ **Continuous Maker** — 퇴사 후 직접 기획·개발하며 웹 & 데스크톱 앱 생태계를 탐구 중
 - 🎨 **UI/UX 지향** — 쾌적하고 세련된 사용자 경험 구현에 진심
 
@@ -108,12 +108,24 @@ const yoobi = {
 
 <br/>
 
-**Language & Framework**
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+<br/>
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
