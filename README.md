@@ -159,7 +159,9 @@ const yoobi = {
 <br/><br/>
 
 <!-- ghstats.dev - stats card -->
-<img src="https://ghstats.dev/api/card?username=yoobilee&theme=tokyonight" width="100%"/>
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=yoobilee&theme=tokyonight" width="500"/>
+</p>
 
 </div>
 
