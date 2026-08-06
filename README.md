@@ -158,12 +158,8 @@ const yoobi = {
 
 <br/><br/>
 
-<!-- github-profile-summary-cards - stats 대체 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoobilee&theme=tokyonight" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoobilee&theme=tokyonight" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoobilee&theme=tokyonight" height="160"/>
+<!-- ghstats.dev - stats card -->
+<img src="https://ghstats.dev/api/card?username=yoobilee&theme=tokyonight" width="100%"/>
 
 </div>
 
