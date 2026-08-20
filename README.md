@@ -63,14 +63,6 @@ const yoobi = {
 
 <br/>
 
-### 📝 Interview Prep
-
-| Repository | Description |
-|---|---|
-| [**frontend-interview-prep**](https://github.com/yoobilee/frontend-interview-prep) | 🎯 연습 모드를 지원하는 프론트엔드 기술 면접 질문 큐레이션 서비스 |
-
-<br/>
-
 ### 📚 Early Journey &nbsp;*(Bootcamp)*
 
 | Repository | Description |
