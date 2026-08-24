@@ -23,17 +23,17 @@ const yoobi = {
   name:     "이유비 (YooBi LEE)",
   handle:   "@yoobilee",
   role:     "AI-Augmented Developer",
-  focus:    ["Web App", "Desktop App", "Interactive UI"],
-  weapon:   "AI 협업 + JavaScript",
-  motto:    "복잡한 데이터를 직관적인 UI로. AI와의 협업으로 한계를 넘는다.",
+  focus:    ["Web App", "Desktop App", "Interactive UI", "AI Workflow"],
+  strength:   "QA Perspective + AI Collaboration",
+  motto:    "사용자와 업무의 문제를 이해하고, 실제로 쓰이는 제품으로 구현한다.",
 };
 ```
 
 <br/>
 
-- 🤖 **AI 협업 개발자** — 프로젝트 성격에 따라 Claude Code(에이전틱 협업) 또는 Claude/Gemini와의 대화 기반 협업을 활용해 프로덕트를 빌드
-- 🖥️ **Continuous Maker** — 퇴사 후 직접 기획·개발하며 웹 & 데스크톱 앱 생태계를 탐구 중
-- 🎨 **UI/UX 지향** — 쾌적하고 세련된 사용자 경험 구현에 진심
+- 🤖 **AI 협업 개발자** — Claude Code, Claude, Gemini 등을 프로젝트 성격에 맞게 활용하고, 결과를 직접 검증하며 웹·데스크톱 앱을 구현
+- 🖥️ **Continuous Maker** — 직접 기획하고 배포한 웹·데스크톱 앱을 실제로 사용하며 지속적으로 개선
+- 🎨 **UI/UX 지향** — 사용 흐름과 시각적 완성도를 함께 고려한 인터페이스 구현
 
 <br/>
 
@@ -45,12 +45,12 @@ const yoobi = {
 
 ### 🛠 Worky Ecosystem &nbsp;*(진행 중)*
 
-> Claude와 적극 협업하여 개발 속도와 코드 퀄리티를 함께 높이는 주력 프로젝트
+> AI를 활용해 반복 업무와 거래처 관리를 지원하는 웹·데스크톱 업무 도구
 
 | Repository | Description |
 |---|---|
-| [**worky**](https://github.com/yoobilee/worky) | 🌐 생산성을 높이기 위한 웹 기반 애플리케이션 |
-| [**worky-desktop**](https://github.com/yoobilee/worky-desktop) | 🖥️ Worky 사용성을 극대화하는 데스크톱 클라이언트 |
+| [**worky**](https://github.com/yoobilee/worky) | 🌐 AI 기반 이메일·문서 작성과 이슈 구조화를 지원하고, GitHub Issue 등록 및 실시간 상태 동기화까지 구현한 업무 보조 웹앱 |
+| [**worky-desktop**](https://github.com/yoobilee/worky-desktop) | 🖥️ 거래처별 카카오톡 채팅방 연결과 보고 메시지 작성을 지원하는 Worky 연동 Windows 앱 |
 
 <br/>
 
@@ -87,7 +87,7 @@ const yoobi = {
 
 | 수상 | 주관 | 날짜 |
 |---|---|---|
-| 🥈 K-Software Empowerment Bootcamp **우수상** | 과학기술정보통신부 / 성균관대·신세계I&C | 2023.08 |
+| 🏆 K-Software Empowerment Bootcamp **우수상** | 과학기술정보통신부 / 성균관대·신세계I&C | 2023.08 |
 | 📄 한국정보기술학회 **우수논문상 (동상)** | 한국정보기술학회 | 2023.06 |
 | 🥉 심화 캡스톤 디자인 **동상** | 경기대학교 | 2023.06 |
 | 🥈 기초 캡스톤 디자인 **금상** | 경기대학교 | 2022.06 |
@@ -116,16 +116,26 @@ const yoobi = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 <br/>
 
-**Tools & Environment**
+**AI & Automation**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
+<br/>
+
+**Tools & Collaboration**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 <br/>
 
