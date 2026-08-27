@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Render Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=YooBi&fontSize=90&fontAlignY=38&fontColor=ffffff&desc=AI-Augmented%20Developer&descSize=20&descAlignY=60&descColor=d8b4fe&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=YooBi&fontSize=90&fontAlignY=38&fontColor=ffffff&desc=Developer&descSize=20&descAlignY=60&descColor=d8b4fe&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -22,8 +22,8 @@
 const yoobi = {
   name:     "이유비 (YooBi LEE)",
   handle:   "@yoobilee",
-  role:     "AI-Augmented Developer",
-  focus:    ["Web App", "Desktop App", "Interactive UI", "AI Workflow"],
+  role:     "Developer",
+  focus:    ["Web Publishing", "Web App", "Interactive UI", "AI Workflow"],
   strength:   "QA Perspective + AI Collaboration",
   motto:    "사용자와 업무의 문제를 이해하고, 실제로 쓰이는 제품으로 구현한다.",
 };
@@ -31,7 +31,7 @@ const yoobi = {
 
 <br/>
 
-- 🤖 **AI 협업 개발자** — Claude Code, Claude, Gemini 등을 프로젝트 성격에 맞게 활용하고, 결과를 직접 검증하며 웹·데스크톱 앱을 구현
+- 🤖 **AI 협업 기반 개발** — Claude Code, Codex, ChatGPT, Gemini 등을 프로젝트 성격에 맞게 활용하고, 결과를 직접 검증하며 웹·데스크톱 앱을 구현
 - 🖥️ **Continuous Maker** — 직접 기획하고 배포한 웹·데스크톱 앱을 실제로 사용하며 지속적으로 개선
 - 🎨 **UI/UX 지향** — 사용 흐름과 시각적 완성도를 함께 고려한 인터페이스 구현
 
@@ -54,11 +54,13 @@ const yoobi = {
 
 <br/>
 
-### 🎨 Dashboard & Interactive UI
+### 🎨 Web & AI Projects
 
 | Repository | Description |
 |---|---|
-| [**personal-dashboard-ui**](https://github.com/yoobilee/personal-dashboard-ui) | ✨ Vanilla JS + Three.js로 구현한 포트폴리오 겸 실사용 대시보드 SPA |
+| [**shift-ai-website-showcase**](https://github.com/yoobilee/shift-ai-website-showcase) | 🧭 산업기술·인테리어·F&B 세 업종의 정보 구조와 시각 언어를 하나의 시스템에서 비교하는 React·TypeScript 쇼케이스 |
+| [**gnu-portfolio**](https://github.com/yoobilee/gnu-portfolio) | 🧩 그누보드5 테마·게시판 스킨을 시맨틱·반응형 구조로 재구성한 웹퍼블리셔 포트폴리오 |
+| [**personal-dashboard-ui**](https://github.com/yoobilee/personal-dashboard-ui) | ✨ Vanilla JavaScript로 구현한 포트폴리오 겸 실사용 대시보드 SPA |
 | [**smart-wallet-dashboard**](https://github.com/yoobilee/smart-wallet-dashboard) | 💰 PC 웹 최적화 미니멀 개인 자산 관리 대시보드 |
 
 <br/>
@@ -115,14 +117,15 @@ const yoobi = {
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
 
 **AI & Automation**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
@@ -170,7 +173,7 @@ const yoobi = {
 
 <div align="center">
 
-*"복잡한 데이터를 직관적인 UI로 풀어내며, AI와의 협업으로 한계를 넘는 개발자 유비입니다."*
+*"QA의 검증 습관을 바탕으로, 사용 흐름과 화면의 완성도를 끝까지 확인합니다."*
 
 <br/>
 
