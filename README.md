@@ -174,7 +174,11 @@ const yoobi = {
 
 <!-- ghstats.dev - stats card -->
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=yoobilee&theme=tokyonight" width="500"/>
+  <img
+    src="https://ghstats.dev/api/card?username=yoobilee&amp;theme=tokyonight"
+    alt="YooBi's GitHub Stats"
+    width="500"
+  />
 </p>
 
 </div>
