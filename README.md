@@ -154,7 +154,7 @@ const yoobi = {
 <a href="https://github.com/yoobilee">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=yoobilee&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"
-    alt="유비의 GitHub 활동 그래프"
+    alt="YooBi's GitHub Activity Graph"
     width="100%"
   />
 </a>
@@ -165,7 +165,7 @@ const yoobi = {
 <a href="https://github.com/yoobilee">
   <img
     src="https://streak-stats.demolab.com/?user=yoobilee&amp;theme=tokyonight&amp;hide_border=true"
-    alt="유비의 GitHub 연속 활동 기록"
+    alt="YooBi's GitHub Streak"
     height="180"
   />
 </a>
