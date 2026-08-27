@@ -150,27 +150,7 @@ const yoobi = {
 
 <div align="center">
 
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/yoobilee">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yoobilee&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"
-    alt="YooBi's GitHub Activity Graph"
-    width="100%"
-  />
-</a>
-
-<br/>
-
-<div align="center">
-
-<!-- GitHub Streak -->
-<a href="https://github.com/yoobilee">
-  <img
-    src="https://streak-stats.demolab.com/?user=yoobilee&amp;theme=tokyonight&amp;hide_border=true"
-    alt="YooBi's GitHub Streak"
-    height="180"
-  />
-</a>
+<img src="./profile/streak.svg" alt="YooBi's GitHub Streak" height="180"/>
 
 <br/><br/>
 
