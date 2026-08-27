@@ -150,13 +150,25 @@ const yoobi = {
 
 <div align="center">
 
-<!-- WakaTime 대신 github-readme-activity-graph 사용 (안정적) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yoobilee&theme=tokyo-night&hide_border=true&area=true)](https://github.com/yoobilee)
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/yoobilee">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yoobilee&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"
+    alt="유비의 GitHub 활동 그래프"
+    width="100%"
+  />
+</a>
 
 <br/>
 
-<!-- GitHub Streak (demolab - 가장 안정적) -->
-<img src="https://streak-stats.demolab.com?user=yoobilee&theme=tokyonight&hide_border=true" height="180"/>
+<!-- GitHub Streak -->
+<a href="https://github.com/yoobilee">
+  <img
+    src="https://streak-stats.demolab.com/?user=yoobilee&amp;theme=tokyonight&amp;hide_border=true"
+    alt="유비의 GitHub 연속 활동 기록"
+    height="180"
+  />
+</a>
 
 <br/><br/>
 
