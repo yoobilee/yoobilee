@@ -161,6 +161,8 @@ const yoobi = {
 
 <br/>
 
+<div align="center">
+
 <!-- GitHub Streak -->
 <a href="https://github.com/yoobilee">
   <img
@@ -172,14 +174,12 @@ const yoobi = {
 
 <br/><br/>
 
-<!-- ghstats.dev - stats card -->
-<p align="center">
-  <img
-    src="https://ghstats.dev/api/card?username=yoobilee&amp;theme=tokyonight"
-    alt="YooBi's GitHub Stats"
-    width="500"
-  />
-</p>
+<!-- GitHub Stats -->
+<img
+  src="https://ghstats.dev/api/card?username=yoobilee&amp;theme=tokyonight"
+  alt="YooBi's GitHub Stats"
+  width="500"
+/>
 
 </div>
 
