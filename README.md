@@ -150,7 +150,29 @@ const yoobi = {
 
 <div align="center">
 
-<img src="./profile/streak.svg" alt="YooBi's GitHub Streak" height="180"/>
+<!--
+GitHub Activity Graph
+서비스 상태 확인:
+https://github-readme-activity-graph.vercel.app/graph?username=yoobilee
+
+복구되면 아래 a 태그를 주석 밖으로 이동
+<a href="https://github.com/yoobilee">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yoobilee&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"
+    alt="YooBi's GitHub Activity Graph"
+    width="100%"
+  />
+</a>
+
+<br/>
+-->
+
+<!-- GitHub Streak -->
+<img
+  src="./profile/streak.svg"
+  alt="YooBi's GitHub Streak"
+  height="180"
+/>
 
 <br/><br/>
 
