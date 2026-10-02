@@ -5,18 +5,13 @@
   동작은 근거로 확인하고, 반복되는 불편은 도구로 줄입니다.<br/>
   테스트를 설계하고 검증하며, 직접 만든 도구를 사용하고 개선합니다.
 </p>
-<p align="center">
-  <a href="https://github.com/yoobilee/noai-music">NoAI</a> &nbsp; / &nbsp;
-  <a href="https://worky-ai.vercel.app">Worky</a> &nbsp; / &nbsp;
-  <a href="https://github.com/yoobilee/looma">Looma</a>
-</p>
 
 ---
 
 ## Now
 
 - **Software QA** — 모바일과 웹 서비스의 테스트 설계, 회귀 테스트, 성능 검증을 중심으로 일합니다.
-- **Looma 개발 중** — 업무 기록과 QA 작업을 돕는 개인 도구를 만들고 있습니다. [Repository](https://github.com/yoobilee/looma)
+- **Looma 개발 중** — 업무 기록과 QA 작업을 돕는 개인 도구를 만들고 있습니다. <a href="https://github.com/yoobilee/looma"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a>
 
 ## Selected Projects
 
@@ -26,13 +21,13 @@
       <h3><img src="https://raw.githubusercontent.com/yoobilee/noai-music/ccd6a869d1aa5027cefa373f5bcdb436efadc5d0/src/public/icons/icon-48.png" width="24" height="24" alt="" /> NoAI</h3>
       <p><strong>공식 AI 표시를 확인하는 브라우저 확장</strong></p>
       <p>YouTube 콘텐츠를 숨기거나 흐리게 처리하고, 표시만 남길 수도 있습니다. YouTube Music에서는 자동 건너뛰기를 지원합니다.</p>
-      <p><a href="https://github.com/yoobilee/noai-music">Repository</a> / <a href="https://chromewebstore.google.com/detail/noai/eiddibmnpcdbgdmeoipniomddiboikkf">Chrome Web Store</a></p>
+      <p><a href="https://github.com/yoobilee/noai-music"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> &nbsp; <a href="https://chromewebstore.google.com/detail/noai/eiddibmnpcdbgdmeoipniomddiboikkf"><img src="https://img.shields.io/badge/Chrome_Web_Store-475569?style=flat" alt="Chrome Web Store" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/yoobilee/worky/d1f55a9a0d85a3c8c92a0536290264de9406d955/public/favicon-48.png" width="24" height="24" alt="" /> Worky</h3>
       <p><strong>흩어진 업무를 한곳에서 다루는 AI 웹앱</strong></p>
       <p>문서 작성, 일정, 거래처, 업무 Q&amp;A와 이슈 정리를 지원합니다. 직접 사용하며 실제 업무에서 생긴 불편을 개선합니다.</p>
-      <p><a href="https://github.com/yoobilee/worky">Repository</a> / <a href="https://worky-ai.vercel.app">Live</a></p>
+      <p><a href="https://github.com/yoobilee/worky"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> &nbsp; <a href="https://worky-ai.vercel.app"><img src="https://img.shields.io/badge/Website-475569?style=flat" alt="Website" /></a></p>
     </td>
   </tr>
   <tr>
@@ -40,13 +35,13 @@
       <h3><img src="https://raw.githubusercontent.com/yoobilee/smart-wallet-dashboard/a5b4d450d7dcc34b5917894804d9030f30e86500/client/public/favicon-192.png" width="24" height="24" alt="" /> Smart Wallet</h3>
       <p><strong>거래 내역과 자산을 정리하는 대시보드</strong></p>
       <p>은행과 카드 거래를 모아 월별 수입과 지출, 자산 현황을 확인합니다. 취소, 할부, 이체 등 거래 유형을 구분해 정리합니다.</p>
-      <p><a href="https://github.com/yoobilee/smart-wallet-dashboard">Repository</a></p>
+      <p><a href="https://github.com/yoobilee/smart-wallet-dashboard"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/yoobilee/shift-ai-website-showcase/2c3bffe9a348942cd08a2e20c1da2fb7c08afb29/public/favicon.svg" width="24" height="24" alt="" /> SHIFT</h3>
       <p><strong>세 업종의 화면과 흐름을 비교하는 쇼케이스</strong></p>
       <p>산업기술, 인테리어, F&amp;B 콘셉트를 전환하며 살펴봅니다. 반응형 화면, 밝은 테마와 어두운 테마, 키보드 탐색을 구현했습니다.</p>
-      <p><a href="https://github.com/yoobilee/shift-ai-website-showcase">Repository</a> / <a href="https://shift-ai-website-showcase.vercel.app">Live</a></p>
+      <p><a href="https://github.com/yoobilee/shift-ai-website-showcase"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> &nbsp; <a href="https://shift-ai-website-showcase.vercel.app"><img src="https://img.shields.io/badge/Website-475569?style=flat" alt="Website" /></a></p>
     </td>
   </tr>
 </table>
@@ -94,15 +89,15 @@
 <details>
 <summary><strong>More projects</strong></summary>
 
-| Project | Description |
-| --- | --- |
-| [Worky Desktop](https://github.com/yoobilee/worky-desktop) | 거래처별 카카오톡 채팅방 연결과 보고 메시지 작성을 돕는 Windows 앱 |
-| [Personal Dashboard](https://github.com/yoobilee/personal-dashboard-ui) | 포트폴리오 겸 실사용 대시보드 SPA |
-| [GNU Portfolio](https://github.com/yoobilee/gnu-portfolio) | 그누보드5 테마와 게시판 스킨을 반응형으로 구성한 포트폴리오 |
-| [Inflave](https://github.com/K-Software-BootCamp/2023KEB_Marketer_pro) | K-Software 부트캠프의 마케터 지원 서비스 프로젝트 |
-| [DjangoServer](https://github.com/yoobilee/DjangoServer) | Django 기반 백엔드 서버 프로젝트 |
-| [Campus Guide](https://github.com/yoobilee/kgu-campus-guide) | 경기대학교 캠퍼스 통합 정보 포털 |
-| [Arduino Nano 33 IoT](https://github.com/yoobilee/Arduino-Nano-33-iot) | 기초 캡스톤 디자인 프로젝트 |
+| Project | Description | Code |
+| --- | --- | --- |
+| Worky Desktop | 거래처별 카카오톡 채팅방 연결과 보고 메시지 작성을 돕는 Windows 앱 | <a href="https://github.com/yoobilee/worky-desktop"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> |
+| Personal Dashboard | 포트폴리오 겸 실사용 대시보드 SPA | <a href="https://github.com/yoobilee/personal-dashboard-ui"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> |
+| GNU Portfolio | 그누보드5 테마와 게시판 스킨을 반응형으로 구성한 포트폴리오 | <a href="https://github.com/yoobilee/gnu-portfolio"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> |
+| Inflave | K-Software 부트캠프의 마케터 지원 서비스 프로젝트 | <a href="https://github.com/K-Software-BootCamp/2023KEB_Marketer_pro"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> |
+| DjangoServer | Django 기반 백엔드 서버 프로젝트 | <a href="https://github.com/yoobilee/DjangoServer"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> |
+| Campus Guide | 경기대학교 캠퍼스 통합 정보 포털 | <a href="https://github.com/yoobilee/kgu-campus-guide"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> |
+| Arduino Nano 33 IoT | 기초 캡스톤 디자인 프로젝트 | <a href="https://github.com/yoobilee/Arduino-Nano-33-iot"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> |
 
 </details>
 
