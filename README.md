@@ -35,7 +35,7 @@
       <h3><img src="https://raw.githubusercontent.com/yoobilee/smart-wallet-dashboard/a5b4d450d7dcc34b5917894804d9030f30e86500/client/public/favicon-192.png" width="24" height="24" alt="" /> Smart Wallet</h3>
       <p><strong>거래 내역과 자산을 정리하는 대시보드</strong></p>
       <p>은행과 카드 거래를 모아 월별 수입과 지출, 자산 현황을 확인합니다. 취소, 할부, 이체 등 거래 유형을 구분해 정리합니다.</p>
-      <p><a href="https://github.com/yoobilee/smart-wallet-dashboard"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a></p>
+      <p><a href="https://github.com/yoobilee/smart-wallet-dashboard"><img src="https://img.shields.io/badge/Code-475569?style=flat" alt="Code" /></a> &nbsp; <a href="https://smart-wallet-dashboard-omega.vercel.app/"><img src="https://img.shields.io/badge/Website-475569?style=flat" alt="Website" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/yoobilee/shift-ai-website-showcase/2c3bffe9a348942cd08a2e20c1da2fb7c08afb29/public/favicon.svg" width="24" height="24" alt="" /> SHIFT</h3>
