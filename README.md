@@ -1,5 +1,6 @@
-<h1 align="center">YooBi Lee</h1>
-<p align="center"><strong>QA Engineer &amp; Builder</strong></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,25&amp;height=220&amp;section=header&amp;text=YooBi&amp;fontSize=90&amp;fontAlignY=38&amp;fontColor=ffffff&amp;desc=QA%20Engineer%20and%20Builder&amp;descSize=20&amp;descAlignY=60&amp;descColor=d8b4fe&amp;animation=fadeIn" alt="YooBi Lee — QA Engineer &amp; Builder" width="100%" />
+</p>
 <p align="center">
   동작은 근거로 확인하고, 반복되는 불편은 도구로 줄입니다.<br/>
   테스트를 설계하고 검증하며, 직접 만든 도구를 사용하고 개선합니다.
@@ -22,13 +23,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎧 NoAI</h3>
+      <h3><img src="https://raw.githubusercontent.com/yoobilee/noai-music/ccd6a869d1aa5027cefa373f5bcdb436efadc5d0/src/public/icons/icon-48.png" width="24" height="24" alt="" /> NoAI</h3>
       <p><strong>공식 AI 표시를 확인하는 브라우저 확장</strong></p>
       <p>YouTube 콘텐츠를 숨기거나 흐리게 처리하고, 표시만 남길 수도 있습니다. YouTube Music에서는 자동 건너뛰기를 지원합니다.</p>
       <p><a href="https://github.com/yoobilee/noai-music">Repository</a> / <a href="https://chromewebstore.google.com/detail/noai/eiddibmnpcdbgdmeoipniomddiboikkf">Chrome Web Store</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Worky</h3>
+      <h3><img src="https://raw.githubusercontent.com/yoobilee/worky/d1f55a9a0d85a3c8c92a0536290264de9406d955/public/favicon-48.png" width="24" height="24" alt="" /> Worky</h3>
       <p><strong>흩어진 업무를 한곳에서 다루는 AI 웹앱</strong></p>
       <p>문서 작성, 일정, 거래처, 업무 Q&amp;A와 이슈 정리를 지원합니다. 직접 사용하며 실제 업무에서 생긴 불편을 개선합니다.</p>
       <p><a href="https://github.com/yoobilee/worky">Repository</a> / <a href="https://worky-ai.vercel.app">Live</a></p>
@@ -36,13 +37,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Smart Wallet</h3>
+      <h3><img src="https://raw.githubusercontent.com/yoobilee/smart-wallet-dashboard/a5b4d450d7dcc34b5917894804d9030f30e86500/client/public/favicon-192.png" width="24" height="24" alt="" /> Smart Wallet</h3>
       <p><strong>거래 내역과 자산을 정리하는 대시보드</strong></p>
       <p>은행과 카드 거래를 모아 월별 수입과 지출, 자산 현황을 확인합니다. 취소, 할부, 이체 등 거래 유형을 구분해 정리합니다.</p>
       <p><a href="https://github.com/yoobilee/smart-wallet-dashboard">Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 SHIFT</h3>
+      <h3><img src="https://raw.githubusercontent.com/yoobilee/shift-ai-website-showcase/2c3bffe9a348942cd08a2e20c1da2fb7c08afb29/public/favicon.svg" width="24" height="24" alt="" /> SHIFT</h3>
       <p><strong>세 업종의 화면과 흐름을 비교하는 쇼케이스</strong></p>
       <p>산업기술, 인테리어, F&amp;B 콘셉트를 전환하며 살펴봅니다. 반응형 화면, 밝은 테마와 어두운 테마, 키보드 탐색을 구현했습니다.</p>
       <p><a href="https://github.com/yoobilee/shift-ai-website-showcase">Repository</a> / <a href="https://shift-ai-website-showcase.vercel.app">Live</a></p>
@@ -120,7 +121,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="YooBi's GitHub contribution streak" width="495" />
+  <img src="https://raw.githubusercontent.com/yoobilee/yoobilee/main/profile/streak.svg" alt="YooBi's GitHub contribution streak" width="495" />
 </p>
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=yoobilee&amp;theme=tokyonight" alt="YooBi's GitHub statistics" width="500" />
@@ -129,3 +130,7 @@
 ---
 
 <p align="center"><sub>확인하고, 만들고, 계속 개선합니다.</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,25&amp;height=120&amp;section=footer" alt="" width="100%" />
+</p>
