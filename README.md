@@ -1,200 +1,131 @@
-<div align="center">
-
-<!-- Capsule Render Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=YooBi&fontSize=90&fontAlignY=38&fontColor=ffffff&desc=Developer&descSize=20&descAlignY=60&descColor=d8b4fe&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/yoobilee?style=flat-square&color=793AF9&labelColor=0d1117&label=followers)](https://github.com/yoobilee)
-[![GitHub stars](https://img.shields.io/github/stars/yoobilee?style=flat-square&color=793AF9&labelColor=0d1117&label=stars)](https://github.com/yoobilee)
-![Profile views](https://komarev.com/ghpvc/?username=yoobilee&style=flat-square&color=793AF9&label=profile+views)
-
-</div>
-
-<br/>
+<h1 align="center">YooBi Lee</h1>
+<p align="center"><strong>QA Engineer &amp; Builder</strong></p>
+<p align="center">
+  동작은 근거로 확인하고, 반복되는 불편은 도구로 줄입니다.<br/>
+  테스트를 설계하고 검증하며, 직접 만든 도구를 사용하고 개선합니다.
+</p>
+<p align="center">
+  <a href="https://github.com/yoobilee/noai-music">NoAI</a> &nbsp; / &nbsp;
+  <a href="https://worky-ai.vercel.app">Worky</a> &nbsp; / &nbsp;
+  <a href="https://github.com/yoobilee/looma">Looma</a>
+</p>
 
 ---
 
-## 🧠 About Me
+## Now
 
-```typescript
-const yoobi = {
-  name:     "이유비 (YooBi LEE)",
-  handle:   "@yoobilee",
-  role:     "Developer",
-  focus:    ["Web Publishing", "Web App", "Interactive UI", "AI Workflow"],
-  strength:   "QA Perspective + AI Collaboration",
-  motto:    "사용자와 업무의 문제를 이해하고, 실제로 쓰이는 제품으로 구현한다.",
-};
-```
+- **Software QA** — 모바일과 웹 서비스의 테스트 설계, 회귀 테스트, 성능 검증을 중심으로 일합니다.
+- **Looma 개발 중** — 업무 기록과 QA 작업을 돕는 개인 도구를 만들고 있습니다. [Repository](https://github.com/yoobilee/looma)
 
-<br/>
+## Selected Projects
 
-- 🤖 **AI 협업 기반 개발** — Claude Code, Codex, ChatGPT, Gemini 등을 프로젝트 성격에 맞게 활용하고, 결과를 직접 검증하며 웹·데스크톱 앱을 구현
-- 🖥️ **Continuous Maker** — 직접 기획하고 배포한 웹·데스크톱 앱을 실제로 사용하며 지속적으로 개선
-- 🎨 **UI/UX 지향** — 사용 흐름과 시각적 완성도를 함께 고려한 인터페이스 구현
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎧 NoAI</h3>
+      <p><strong>공식 AI 표시를 확인하는 브라우저 확장</strong></p>
+      <p>YouTube 콘텐츠를 숨기거나 흐리게 처리하고, 표시만 남길 수도 있습니다. YouTube Music에서는 자동 건너뛰기를 지원합니다.</p>
+      <p><a href="https://github.com/yoobilee/noai-music">Repository</a> / <a href="https://chromewebstore.google.com/detail/noai/eiddibmnpcdbgdmeoipniomddiboikkf">Chrome Web Store</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Worky</h3>
+      <p><strong>흩어진 업무를 한곳에서 다루는 AI 웹앱</strong></p>
+      <p>문서 작성, 일정, 거래처, 업무 Q&amp;A와 이슈 정리를 지원합니다. 직접 사용하며 실제 업무에서 생긴 불편을 개선합니다.</p>
+      <p><a href="https://github.com/yoobilee/worky">Repository</a> / <a href="https://worky-ai.vercel.app">Live</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Smart Wallet</h3>
+      <p><strong>거래 내역과 자산을 정리하는 대시보드</strong></p>
+      <p>은행과 카드 거래를 모아 월별 수입과 지출, 자산 현황을 확인합니다. 취소, 할부, 이체 등 거래 유형을 구분해 정리합니다.</p>
+      <p><a href="https://github.com/yoobilee/smart-wallet-dashboard">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 SHIFT</h3>
+      <p><strong>세 업종의 화면과 흐름을 비교하는 쇼케이스</strong></p>
+      <p>산업기술, 인테리어, F&amp;B 콘셉트를 전환하며 살펴봅니다. 반응형 화면, 밝은 테마와 어두운 테마, 키보드 탐색을 구현했습니다.</p>
+      <p><a href="https://github.com/yoobilee/shift-ai-website-showcase">Repository</a> / <a href="https://shift-ai-website-showcase.vercel.app">Live</a></p>
+    </td>
+  </tr>
+</table>
 
-<br/>
+## Skills & Tools
 
----
+**QA & Testing**
 
-## 🚀 Featured Projects
+![Test Design](https://img.shields.io/badge/Test_Design-7C3AED?style=flat)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-7C3AED?style=flat)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-7C3AED?style=flat)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-7C3AED?style=flat)
+![Mobile & Web QA](https://img.shields.io/badge/Mobile_%26_Web_QA-7C3AED?style=flat)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
-<br/>
+**Web & Data**
 
-### 🛠 Worky Ecosystem &nbsp;*(진행 중)*
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B59B00?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0891B2?style=flat&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-228B5B?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-B56D00?style=flat&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-> AI를 활용해 반복 업무와 거래처 관리를 지원하는 웹·데스크톱 업무 도구
+**Workflow**
 
-| Repository | Description |
-|---|---|
-| [**worky**](https://github.com/yoobilee/worky) | 🌐 AI 기반 이메일·문서 작성과 이슈 구조화를 지원하고, GitHub Issue 등록 및 실시간 상태 동기화까지 구현한 업무 보조 웹앱 |
-| [**worky-desktop**](https://github.com/yoobilee/worky-desktop) | 🖥️ 거래처별 카카오톡 채팅방 연결과 보고 메시지 작성을 지원하는 Worky 연동 Windows 앱 |
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+![Codex](https://img.shields.io/badge/Codex-374151?style=flat)
+![Claude Code](https://img.shields.io/badge/Claude_Code-A65B35?style=flat&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-087F5B?style=flat)
 
-<br/>
+## Approach
 
-### 🎨 Web & AI Projects
+사양과 실제 동작이 다르면 재현 조건, 데이터, 로그를 함께 확인합니다. 정상 흐름뿐 아니라 경계값과 지연, 반복 입력 같은 예외 조건도 나누어 살핍니다. AI와 협업해 만든 결과는 테스트와 리뷰로 검증합니다.
 
-| Repository | Description |
-|---|---|
-| [**shift-ai-website-showcase**](https://github.com/yoobilee/shift-ai-website-showcase) | 🧭 산업기술·인테리어·F&B 세 업종의 정보 구조와 시각 언어를 하나의 시스템에서 비교하는 React·TypeScript 쇼케이스 |
-| [**gnu-portfolio**](https://github.com/yoobilee/gnu-portfolio) | 🧩 그누보드5 테마·게시판 스킨을 시맨틱·반응형 구조로 재구성한 웹퍼블리셔 포트폴리오 |
-| [**personal-dashboard-ui**](https://github.com/yoobilee/personal-dashboard-ui) | ✨ Vanilla JavaScript로 구현한 포트폴리오 겸 실사용 대시보드 SPA |
-| [**smart-wallet-dashboard**](https://github.com/yoobilee/smart-wallet-dashboard) | 💰 PC 웹 최적화 미니멀 개인 자산 관리 대시보드 |
+<details>
+<summary><strong>More projects</strong></summary>
 
-<br/>
+| Project | Description |
+| --- | --- |
+| [Worky Desktop](https://github.com/yoobilee/worky-desktop) | 거래처별 카카오톡 채팅방 연결과 보고 메시지 작성을 돕는 Windows 앱 |
+| [Personal Dashboard](https://github.com/yoobilee/personal-dashboard-ui) | 포트폴리오 겸 실사용 대시보드 SPA |
+| [GNU Portfolio](https://github.com/yoobilee/gnu-portfolio) | 그누보드5 테마와 게시판 스킨을 반응형으로 구성한 포트폴리오 |
+| [Inflave](https://github.com/K-Software-BootCamp/2023KEB_Marketer_pro) | K-Software 부트캠프의 마케터 지원 서비스 프로젝트 |
+| [DjangoServer](https://github.com/yoobilee/DjangoServer) | Django 기반 백엔드 서버 프로젝트 |
+| [Campus Guide](https://github.com/yoobilee/kgu-campus-guide) | 경기대학교 캠퍼스 통합 정보 포털 |
+| [Arduino Nano 33 IoT](https://github.com/yoobilee/Arduino-Nano-33-iot) | 기초 캡스톤 디자인 프로젝트 |
 
-### 📚 Early Journey &nbsp;*(Bootcamp)*
+</details>
 
-| Repository | Description |
-|---|---|
-| [**2023KEB_Marketer_pro**](https://github.com/K-Software-BootCamp/2023KEB_Marketer_pro) | 📊 K-Software 부트캠프 최종 프로젝트 — Inflave 마케터 지원 서비스 |
-| [**DjangoServer**](https://github.com/yoobilee/DjangoServer) | 🐍 Django 기반 백엔드 서버 프로젝트 |
-
-<br/>
-
-### 🎓 University &nbsp;*(캡스톤 디자인)*
-
-| Repository | Description |
-|---|---|
-| [**kgu-campus-guide**](https://github.com/yoobilee/kgu-campus-guide) | 🏫 경기대 재학생을 위한 캠퍼스 통합 정보 포털 — Django 풀스택 (5인 팀, 캡스톤 심화) |
-| [**Arduino-Nano-33-iot**](https://github.com/yoobilee/Arduino-Nano-33-iot) | ⚡ Arduino Nano 33 IoT를 활용한 캡스톤 디자인 기초 프로젝트 |
-
-<br/>
-
----
-
-## 🏆 Awards
+<details>
+<summary><strong>Awards</strong></summary>
 
 | 수상 | 주관 | 날짜 |
-|---|---|---|
-| 🏆 K-Software Empowerment Bootcamp **우수상** | 과학기술정보통신부 / 성균관대·신세계I&C | 2023.08 |
-| 📄 한국정보기술학회 **우수논문상 (동상)** | 한국정보기술학회 | 2023.06 |
-| 🥉 심화 캡스톤 디자인 **동상** | 경기대학교 | 2023.06 |
-| 🥈 기초 캡스톤 디자인 **금상** | 경기대학교 | 2022.06 |
+| --- | --- | --- |
+| K-Software Empowerment Bootcamp 우수상 | 과학기술정보통신부 / 성균관대, 신세계I&C | 2023.08 |
+| 우수논문상 (동상) | 한국정보기술학회 | 2023.06 |
+| 심화 캡스톤 디자인 동상 | 경기대학교 | 2023.06 |
+| 기초 캡스톤 디자인 금상 | 경기대학교 | 2022.06 |
 
-<br/>
+</details>
 
----
+## GitHub Activity
 
-## 🛠 Tech Stack
-
-<br/>
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-<br/>
-
-**Backend & Data**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br/>
-
-**AI & Automation**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
-
-<br/>
-
-**Tools & Collaboration**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-
-<br/>
+<p align="center">
+  <img src="./profile/streak.svg" alt="YooBi's GitHub contribution streak" width="495" />
+</p>
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=yoobilee&amp;theme=tokyonight" alt="YooBi's GitHub statistics" width="500" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-<br/>
-
-<div align="center">
-
-<!--
-GitHub Activity Graph
-서비스 상태 확인:
-https://github-readme-activity-graph.vercel.app/graph?username=yoobilee
-
-복구되면 아래 a 태그를 주석 밖으로 이동
-<a href="https://github.com/yoobilee">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yoobilee&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"
-    alt="YooBi's GitHub Activity Graph"
-    width="100%"
-  />
-</a>
-
-<br/>
--->
-
-<!-- GitHub Streak -->
-<img
-  src="./profile/streak.svg"
-  alt="YooBi's GitHub Streak"
-  height="180"
-/>
-
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img
-  src="https://ghstats.dev/api/card?username=yoobilee&amp;theme=tokyonight"
-  alt="YooBi's GitHub Stats"
-  width="500"
-/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-*"QA의 검증 습관을 바탕으로, 사용 흐름과 화면의 완성도를 끝까지 확인합니다."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center"><sub>확인하고, 만들고, 계속 개선합니다.</sub></p>
